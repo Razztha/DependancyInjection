@@ -1,0 +1,14 @@
+E:\My Projects\DependencyInjection\DependencyInjection\bin\Debug\netcoreapp2.1\DependencyInjection.deps.json
+E:\My Projects\DependencyInjection\DependencyInjection\bin\Debug\netcoreapp2.1\DependencyInjection.runtimeconfig.json
+E:\My Projects\DependencyInjection\DependencyInjection\bin\Debug\netcoreapp2.1\DependencyInjection.runtimeconfig.dev.json
+E:\My Projects\DependencyInjection\DependencyInjection\bin\Debug\netcoreapp2.1\DependencyInjection.dll
+E:\My Projects\DependencyInjection\DependencyInjection\obj\Debug\netcoreapp2.1\DependencyInjection.csprojAssemblyReference.cache
+E:\My Projects\DependencyInjection\DependencyInjection\obj\Debug\netcoreapp2.1\DependencyInjection.csproj.CoreCompileInputs.cache
+E:\My Projects\DependencyInjection\DependencyInjection\obj\Debug\netcoreapp2.1\DependencyInjection.RazorAssemblyInfo.cache
+E:\My Projects\DependencyInjection\DependencyInjection\obj\Debug\netcoreapp2.1\DependencyInjection.RazorAssemblyInfo.cs
+E:\My Projects\DependencyInjection\DependencyInjection\obj\Debug\netcoreapp2.1\DependencyInjection.AssemblyInfoInputs.cache
+E:\My Projects\DependencyInjection\DependencyInjection\obj\Debug\netcoreapp2.1\DependencyInjection.AssemblyInfo.cs
+E:\My Projects\DependencyInjection\DependencyInjection\obj\Debug\netcoreapp2.1\DependencyInjection.RazorTargetAssemblyInfo.cache
+E:\My Projects\DependencyInjection\DependencyInjection\bin\Debug\netcoreapp2.1\DependencyInjection.pdb
+E:\My Projects\DependencyInjection\DependencyInjection\obj\Debug\netcoreapp2.1\DependencyInjection.dll
+E:\My Projects\DependencyInjection\DependencyInjection\obj\Debug\netcoreapp2.1\DependencyInjection.pdb
